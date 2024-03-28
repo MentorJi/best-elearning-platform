@@ -2,78 +2,71 @@
 
 Best e-learning platform for Foundation, JEE Mains, NEET UG, & CUET UG
 
-**Welcome to MentorJi - Your One-Stop Learning Destination! **
+```markdown
+# Welcome to MentorJi - Your Ultimate Learning Partner! 🚀
 
-Our Vision: At MentorJi, we're passionate about empowering learners of all backgrounds. We believe everyone deserves access to high-quality education, regardless of financial limitations.  This vision drives us to create a supportive and inclusive learning environment where you can thrive.
+## 📚 OUR VISION:
+At MentorJi, Our vision is simple yet profound:
+- to provide quality education to all, regardless of their background or financial status.
 
-Why Choose MentorJi?
+## 📚 WHY CHOOSE US:
+- Expert Mentorship
+- Flexible Learning
+- Practical Approach
+- Community
+- Continuous Growth
 
-- Expert Mentorship: Gain guidance from renowned educators who are dedicated to your success.
-- Flexible Learning: Learn at your own pace, anytime, anywhere, with our diverse learning options.
-- Practical Approach: Develop real-world skills and knowledge that will prepare you for your academic and professional goals.
-- Thriving Community: Connect with fellow learners and mentors, fostering a supportive network.
-- Lifelong Growth: We're committed to providing resources and support for your continuous learning journey.
+## 📙 HIGH QUALITY MOCK TEST SERIES:
+- [All Free Test Series](https://mentorji.live/test-series)
+- [NEET Test Series](https://mentorji.live/test-series?category=neet-ug)
+- [JEE Test Series](https://mentorji.live/test-series?category=jee-mains)
+- [CUET Test Series](https://mentorji.live/test-series?category=cuet)
+- [Previous Year Question Papers for Practice](https://mentorji.live/test-series)
+- [Sample Question Papers for Practice](https://mentorji.live/test-series)
+- [All Free Courses](https://mentorji.live/classes)
 
-** Power Up Your Studies with MentorJi's Resources:**
+## 📙 FREE STUDY MATERIAL:
+- [All Study Material](https://mentorji.live/study-material)
+- [Daily Free Current affairs with Video Explanation](https://mentorji.live/current-affairs)
+- [Daily Updates & Blogs](https://mentorji.live/blog)
+- [All Free Courses](https://mentorji.live/classes)
 
-** High-Quality Mock Test Series:**
+## 🧑🏻‍🏫 DOUBT SESSIONS:
+- [All Mentors](https://mentorji.live/instructors)
+- [Book your Private Doubt Session](https://mentorji.live/instructor-finder/wizard)
+- [All Free Courses](https://mentorji.live/classes)
 
-- Free Access to All Test Series: [Test Series](https://mentorji.live/test-series)
-- Targeted Test Series:
-  - NEET UG: [NEET UG Test Series](https://mentorji.live/test-series?category=neet-ug)
-  - JEE Mains: [JEE Mains Test Series](https://mentorji.live/test-series?category=jee-mains)
-  - CUET: [CUET Test Series](https://mentorji.live/test-series?category=cuet)
-- Practice Makes Perfect: Access previous and sample question papers to refine your exam strategy: [Test Papers](https://mentorji.live/test-series)
+## 🔴 DAILY LIVE & DOUBT CLASSES:
+[Join us on YouTube](https://www.youtube.com/@mentorjilive/streams)
 
-** Free Study Materials:**
+## 🚀 USEFUL PLAYLIST:
+### CLASS 12th CBSE FOR BOARD EXAMS:
+- [Physics OneShot for CBSE Board Exam by Er. Ajay Nagar Sir](https://youtube.com/playlist?list=PL35CWG1_rR5MuY2yIuAtYBQtRu3G3An4q&feature=shared)
+- [Chemistry OneShot for CBSE Board Exam by Nitin Shrivastava Sir](https://youtube.com/playlist?list=PL35CWG1_rR5OHcRUpg2cE0J6y-narq3E-&feature=shared)
+- [Biology OneShot for CBSE Board Exam by Vikas Jain Sir](https://youtube.com/playlist?list=PL35CWG1_rR5OM6DlsM2U4CnXMWaWQhmrH&feature=shared)
+- [Maths OneShot for CBSE Board Exam by Priyanshu Sir](https://youtube.com/playlist?list=PL35CWG1_rR5OMtyTo64GyxRiOY7w58Bua&feature=shared)
 
-- Comprehensive Library: Explore a vast collection of study materials for various subjects: [Study Materials](https://mentorji.live/study-material)
-- Stay Informed: Stay updated with daily current affairs explained through engaging videos: [Current Affairs](https://mentorji.live/current-affairs)
-- Engaging Blog: Dive into insightful articles and updates on the MentorJi blog: [Blog](https://mentorji.live/blog)
+### CLASS 10th CBSE FOR BOARD EXAMS:
+- [Chemistry Classes for CBSE Board Exam by Nitin Shrivastava Sir](https://youtube.com/playlist?list=PL35CWG1_rR5Pph3gcrVpvmtKrSMNAti8O&feature=shared)
+- [Maths Classes for CBSE Board Exam by Priyanshu Sir](https://youtube.com/playlist?list=PL35CWG1_rR5PyM1jvWGs2m_cnS1FvjxQT&feature=shared)
+- [Biology Classes for CBSE Board Exam by Vikas Jain Sir](https://youtube.com/playlist?list=PL35CWG1_rR5NuEwgemU2htsFB8Sceq2Ha&feature=shared)
+- [Physics Classes for CBSE Board Exam by Vikas Jain Sir](https://youtube.com/playlist?list=PL35CWG1_rR5NXlVnrz3EaLZXSGal6h7Wg&feature=shared)
 
-** Get Your Doubts Cleared:**
+## 🌐 SOCIAL MEDIA & OTHER:
+- [Website](www.mentorji.live)
+- [Telegram](https://t.me/mentorjilive)
+- [Instagram](https://Instagram.com/mentorjilive)
+- [Facebook](https://Facebook.com/mentorjilive)
+- [Twitter](https://Twitter.com/mentorjilive)
+- [YouTube](https://youtube.com/@mentorjilive)
+- [LinkedIn](https://linkedin.com/company/mentorjilive)
+- [WhatsApp Channel](https://shorturl.at/dmPV0)
 
-- Meet the Mentors: Learn more about our expert faculty: [Instructors](https://mentorji.live/instructors)
-- Personalized Support: Schedule private doubt sessions for focused guidance: [Instructor Finder](https://mentorji.live/instructor-finder/wizard)
+## 🚀 APPLY TO BECOME A MENTOR
+1. Fill the form to apply as a Mentor: [Apply Here](https://shorturl.at/diG45)
+2. Verification from Our end
+3. Mentor X MentorJi Agreement
+4. Brand Kit sharing
 
-** Live & Interactive Learning:**
-
-- Daily Live & Doubt Classes: Join the vibrant learning community on YouTube: [Live Classes](https://www.youtube.com/@mentorjilive/streams)
-
-** OneShot Revision Playlists (Class 12th CBSE):**
-
-- Physics: [Physics OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5MuY2yIuAtYBQtRu3G3An4q&feature=shared) (by Er. Ajay Nagar Sir)
-- Chemistry: [Chemistry OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5OHcRUpg2cE0J6y-narq3E-&feature=shared) (by Nitin Shrivastava Sir)
-- Biology: [Biology OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5OM6DlsM2U4CnXMWaWQhmrH&feature=shared) (by Vikas Jain Sir)
-- Maths: [Maths OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5OMtyTo64GyxRiOY7w58Bua&feature=shared) (by Priyanshu Sir)
-
-** OneShot Revision Playlists (Class 10th CBSE):**
-
-- Chemistry: [Chemistry OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5Pph3gcrVpvmtKrSMNAti8O&feature=shared) (by Nitin Shrivastava Sir)
-- Maths: [Maths OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5PyM1jvWGs2m_cnS1FvjxQT&feature=shared) (by Priyanshu Sir)
-- Biology: [Biology OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5NuEwgemU2htsFB8Sceq2Ha&feature=shared) (by Vikas Jain Sir)
-- Physics: [Physics OneShot](https://youtube.com/playlist?list=PL35CWG1_rR5NXlVnrz3EaLZXSGal6h7Wg&feature=shared) (by Vikas Jain Sir)
-
-** Stay Updated with Current Affairs:**
-
-- Today's Special: [Current Affairs](https://www.youtube.com/playlist?list=PL35CWG1_rR5OX0lLjRy1T7ZDdq9h-bmEY)
-
-** Connect with Us:**
-
-- Website: [MentorJi Website](https://mentorji.live)
-- Telegram: [Telegram](https://t.me/mentorjilive)
-- Instagram: [Instagram](https://www.instagram.com/mentorjilive)
-- Facebook: [Facebook](https://www.facebook.com/p/mentorjilive)
-- Twitter: [Twitter](https://twitter.com/mentorjilive)
-- YouTube: [YouTube](https://www.youtube.com/@mentorjilive)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/company/mentorjilive)
-- WhatsApp Channel: [WhatsApp](https://faq.whatsapp.com/502291734918768)
-
-** Become a Mentor:**
-
-- Apply Here: [Mentor Application](https://shorturle.com/user/register)
-- Verification Process
-- Mentor Agreement
-- Brand Kit Sharing
-
-Let's embark on this extraordinary learning journey together!
+## 🌟 Join us on this extraordinary educational journey!"
+```
