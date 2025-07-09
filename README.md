@@ -1,6 +1,6 @@
 # best elearning platform
 
-Best e-learning platform for Foundation, JEE Mains, NEET UG, & CUET UG
+Best e-learning platform for Foundation, JEE Mains, NEET UG, & CUET UG - YOUR PREP PARTNER
 
 ```markdown
 # Welcome to MentorJi - Your Ultimate Learning Partner! 🚀
